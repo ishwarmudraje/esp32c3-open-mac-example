@@ -1,0 +1,8 @@
+build
+main/app_main.c
+/tests/joulescope/__pycache__/
+sdkconfig.old
+sdkconfig
+/sdkconfig.test
+.vscode
+.devcontainer
