@@ -18,6 +18,8 @@ The example has been tested with ESP-IDF v5.2.2 on an ESP32-C3. No IPv4 stack is
 [net_setup.c](main/net_setup.c) connects to the router using the proprietary driver and then kills it after association is complete. 
 
 ## Register addresses
+|                |               |
+| -------------- | ------------- |
 | WIFI_MAC_BASE | 0x60033000 |
 | WIFI_BASE_RX_DSCR | 0x60033088 |
 | WIFI_NEXT_RX_DSCR | 0x6003308c |
